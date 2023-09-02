@@ -1,2 +1,2 @@
-# Recipe page of Lasagne
+# Recipe pages
 For The Oding Project
