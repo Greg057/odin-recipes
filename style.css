@@ -1,4 +1,19 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 
+}
+
+#header {
+    text-align: center;
+}
+
+.food {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#img {
+    width: 720px;
+    height: auto;
 }
