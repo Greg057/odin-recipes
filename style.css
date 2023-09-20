@@ -16,6 +16,8 @@ body {
 
 li {
     padding: 12px;
+    background-color: aqua;
+    margin: 8px 720px;
 }
 
 #img {
