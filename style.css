@@ -11,6 +11,11 @@ body {
 .food {
     font-size: 24px;
     font-weight: bold;
+    list-style-type: none;
+}
+
+li {
+    padding: 12px;
 }
 
 #img {
